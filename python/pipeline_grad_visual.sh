@@ -1,0 +1,4 @@
+python draw_learning_property_eu.py 2259_train_click_mp.txt
+python draw_learning_property_rr.py 2259_train_click_mp.txt
+sh figcrop_single.sh gradient_visualization_eu.pdf
+sh figcrop_single.sh gradient_visualization_rr.pdf
