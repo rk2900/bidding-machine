@@ -5,13 +5,17 @@ Preprint Version: [arXiv](https://arxiv.org/abs/1803.02194)
 
 ## Citation
 ```
-@article{ren2017bidding,
-  title={Bidding Machine: Learning to Bid for Directly Optimizing Profits in Display Advertising},
-  author={Ren, Kan and Zhang, Weinan and Chang, Ke and Rong, Yifei and Yu, Yong and Wang, Jun},
-  journal={IEEE Transactions on Knowledge and Data Engineering},
-  year={2017},
-  publisher={IEEE}
-}
+@ARTICLE{ren2017bidding, 
+author={K. Ren and W. Zhang and K. Chang and Y. Rong and Y. Yu and J. Wang}, 
+journal={IEEE Transactions on Knowledge and Data Engineering}, 
+title={Bidding Machine: Learning to Bid for Directly Optimizing Profits in Display Advertising}, 
+year={2018}, 
+volume={30}, 
+number={4}, 
+pages={645-659}, 
+doi={10.1109/TKDE.2017.2775228}, 
+ISSN={1041-4347}, 
+month={April},}
 ```
 
 ```
